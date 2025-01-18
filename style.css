@@ -545,18 +545,18 @@ form{
 form::after{
   content:"";
   position: absolute;
-  height:103%;
-  width:102%;
+  height:100%;
+  width:100%;
+  padding:5px;
   background-image: linear-gradient(var(--angle),blue,skyblue,aqua);
   border-radius:30px;
   z-index:-1;
-  animation: 3s spin linear infinite;
+  animation: 6s spin linear infinite;
 }
 @property --angle{
   syntax:"<angle>";
   initial-value:0deg;
   inherits: false;
-
 }
 @keyframes spin {
   form{
