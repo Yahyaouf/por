@@ -500,7 +500,6 @@ a{
   .langages{
     justify-content: center;
     width:100vw;
-    background-color: red;
     overflow-x: auto;
     scrollbar-width:none;
     gap: 10px;
