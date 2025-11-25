@@ -116,6 +116,3 @@ Puis ouvrez `index.html`.
 🔗 https://github.com/Yahyaouf
 
 ---
-
-## 📜 Licence
-MIT License
